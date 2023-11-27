@@ -4,4 +4,4 @@ Materials for the talk "Python already has a frontend for your compiler" at Pite
 
 [Slides](https://github.com/true-grue/python-dsls/blob/main/python_dsls_eng.pdf)
 
-[Slides (In Russian)](https://github.com/true-grue/python-dsls/blob/main/python_dsls.pdf)
+[Slides (in Russian)](https://github.com/true-grue/python-dsls/blob/main/python_dsls.pdf)
