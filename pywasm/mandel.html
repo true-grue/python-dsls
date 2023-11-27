@@ -33,7 +33,6 @@ var lib = {
     },
     imshow: function (image) {
         image = mem[image];
-        console.log(image);
         for (let y = 0; y < image.length; y++) {
             for (let x = 0; x < mem[image[0]].length; x++) {
                 p = 4 * (y * canvas.width + x);
